@@ -47,5 +47,7 @@
         "blocks"
     ],
     "gitlens.currentLine.format": "${author, }${agoOrDate}${' via  'pullRequest}${ • message|50?}",
-    "gitlens.currentLine.uncommittedChangesFormat": "✏️ ${ago"
+    "gitlens.currentLine.uncommittedChangesFormat": "✏️ ${ago",
+    "github-actions.workflows.pinned.refresh.enabled": true,
+    "github-actions.use-enterprise": true
 }
