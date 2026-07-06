@@ -18,7 +18,12 @@
         "vscode.audioPreview": true,
         "gitlens.rebase": true,
         "workflowStudio.asl": true,
-        "mainThreadWebview-browserPreview": false
+        "arm-debugger.debug-config": true,
+        "virtual-hardware.fvpParamsEditor": true,
+        "arm-debugger.run-config": true,
+        "workbench.input.interactive": true,
+        "mainThreadWebview-markdown.preview": true,
+        "memory-inspector.inspect": true
     },
     "workbench.editor.centeredLayoutFixedWidth": true,
     "workbench.editor.defaultBinaryEditor": "gitlens.rebase",
